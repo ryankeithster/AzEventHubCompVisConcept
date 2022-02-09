@@ -1,0 +1,12 @@
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\bin\Debug\net6.0\AzureUtilities.deps.json
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\bin\Debug\net6.0\AzureUtilities.dll
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\bin\Debug\net6.0\ref\AzureUtilities.dll
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\bin\Debug\net6.0\AzureUtilities.pdb
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.csproj.AssemblyReference.cache
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.AssemblyInfoInputs.cache
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.AssemblyInfo.cs
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.csproj.CoreCompileInputs.cache
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.dll
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\ref\AzureUtilities.dll
+C:\Users\ryank\source\repos\EventHubCompVisConcept\AzureUtilities\obj\Debug\net6.0\AzureUtilities.pdb
