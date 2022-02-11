@@ -48,7 +48,7 @@ namespace ComputerVisionQuickstart
     {
         // <snippet_vars>
         // Add your Computer Vision subscription key and endpoint
-        static string subscriptionKey = "5226963652574ce9b7f136f8869c3631";
+        static string subscriptionKey = string.Empty; // TODO: retrieve Computer Vision subscription key from AKV, or appSettings
         static string endpoint = "https://ryan42-comp-vis.cognitiveservices.azure.com/";
 
         private string SubscriptionKey =>

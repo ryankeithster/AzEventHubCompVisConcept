@@ -53,7 +53,7 @@ namespace EventHubsReceiver // Note: actual namespace depends on the project nam
             string keyVaultName, azADDirectoryID, azADApplicationID, azThumbprint;
             GetAzureAppConfigurationValues(out keyVaultName, out azADDirectoryID, out azADApplicationID, out azThumbprint);
             
-            string blobStorageConnectionString = string.Empty;//AzureUtilities.SecretManager.GetSecretValue(KV_URI, KV_BLOB_CONN_STR_NAME);
+            string blobStorageConnectionString = string.Empty;// TODO: Retrieve blob connection string from AKV
             string ehubNamespaceConnectionString = AzureUtilities.SecretManager.GetSecretValueWithCertAndClientID(keyVaultName, azADDirectoryID, azADApplicationID, azThumbprint, "ryan42-eventhub-conn-str");
 
             // Read from the default consumer group

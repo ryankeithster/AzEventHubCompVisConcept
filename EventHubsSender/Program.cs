@@ -10,7 +10,7 @@ namespace EventHubsSender // Note: actual namespace depends on the project name.
     {
 
         // connection string to the Event Hubs namespace
-        private const string connectionString = "Endpoint=sb://ryan42-evh-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=B72o/LeeDog2bj3YqCY8i/zEFfPgf/RTWQeHfBw/Bws=;EntityPath=ryan42-eh";
+        private const string connectionString = ""; // TODO: retrieve EH connection string
 
         // name of the event hub
         private const string eventHubName = "ryan42-eh";
